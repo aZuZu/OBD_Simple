@@ -1,0 +1,11 @@
+C:\Users\aZuZu\Documents\Visual Studio 2008\Projects\OBD_Simple\OBD_Simple\bin\Debug\OBD_Simple.exe
+C:\Users\aZuZu\Documents\Visual Studio 2008\Projects\OBD_Simple\OBD_Simple\bin\Debug\OBD_Simple.pdb
+C:\Users\aZuZu\Documents\Visual Studio 2008\Projects\OBD_Simple\OBD_Simple\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aZuZu\Documents\Visual Studio 2008\Projects\OBD_Simple\OBD_Simple\obj\Debug\OBD_Simple.Form1.resources
+C:\Users\aZuZu\Documents\Visual Studio 2008\Projects\OBD_Simple\OBD_Simple\obj\Debug\OBD_Simple.Properties.Resources.resources
+C:\Users\aZuZu\Documents\Visual Studio 2008\Projects\OBD_Simple\OBD_Simple\obj\Debug\OBD_Simple.csproj.GenerateResource.Cache
+C:\Users\aZuZu\Documents\Visual Studio 2008\Projects\OBD_Simple\OBD_Simple\obj\Debug\OBD_Simple.exe
+C:\Users\aZuZu\Documents\Visual Studio 2008\Projects\OBD_Simple\OBD_Simple\obj\Debug\OBD_Simple.pdb
+C:\Users\aZuZu\Documents\Visual Studio 2008\Projects\OBD_Simple\OBD_Simple\obj\Debug\OBD_Simple.Form1.hr-HR.resources
+C:\Users\aZuZu\Documents\Visual Studio 2008\Projects\OBD_Simple\OBD_Simple\bin\Debug\hr-HR\OBD_Simple.resources.dll
+C:\Users\aZuZu\Documents\Visual Studio 2008\Projects\OBD_Simple\OBD_Simple\obj\Debug\hr-HR\OBD_Simple.resources.dll
